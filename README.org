@@ -1,0 +1,3 @@
+#+TITLE: dmenu-lucysue
+
+This repo contains my personal build of dmenu, patched for fonts, color scheme via pywal, and fuzzy searches.
