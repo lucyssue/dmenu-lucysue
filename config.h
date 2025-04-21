@@ -10,7 +10,7 @@ static const char *fonts[] = {
 	"VictorMono Nerd Font Mono:size=13"
 };
 static const int user_bh = 5;
-static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
+static const char *prompt      = "Search...";      /* -p  option; prompt to the left of input field */
 /* -l option; if nonzero, dmenu uses vertical list with given number of lines */
 static unsigned int lines      = 0;
 
