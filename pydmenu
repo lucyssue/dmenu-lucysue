@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-# Script to launch dmenu using the pywal theme if applicable
+# Script to launch dmenu using the pywal theme, if applicable
 
 # Import the colors
 . "${HOME}/.cache/wal/colors.sh"
